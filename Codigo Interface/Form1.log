@@ -1,0 +1,6 @@
+Línea 307: la clase MSCommLib.MSComm del control puerto no era una clase de control cargada.
+Línea 310: el nombre de la propiedad _ExtentX de puerto no es válido.
+Línea 311: el nombre de la propiedad _ExtentY de puerto no es válido.
+Línea 312: el nombre de la propiedad _Version de puerto no es válido.
+Línea 313: el nombre de la propiedad DTREnable de puerto no es válido.
+Línea 314: el nombre de la propiedad BaudRate de puerto no es válido.
