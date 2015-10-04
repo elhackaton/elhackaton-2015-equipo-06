@@ -1,0 +1,42 @@
+html{height: 100%;}
+
+body{height: 100%;margin: 0px; padding-bottom: 0px;min-width:900px; color:#000; text-align: justify; font-family:'Exo 2',sans-serif; background-color:#fff; font-weight:lighter;}
+ 
+h1{color:#D3D3D3;}
+h2{color:#D3D3D3; margin: 0px;}
+
+#wrapper {min-height: 100%;position: relative;}
+
+/***********Header***********/
+#header{width: 100%;height: 120px;background-color: #002D63;}
+#menuSuperior{margin: 0 auto;width:900px;height:145px;}
+.title{padding-top: 50px;float:left;width: 780px;height: 70px; text-align: center; background-color:;}
+.desloguear{float:left;width: 120px;height: 30px; padding-top: 90px; text-align: center; background-color:;}
+
+/**********Contenido**********/
+#content {margin: 0 auto;width:900px;min-height: 100%;}
+
+
+.texto_index{width: 570px;text-align: center;}
+
+
+/*********Footer***********/
+#footer {width: 100%;height: 120px;position: absolute;bottom: 0;left: 0;	background-color: #002D63;}
+#footer_g{margin: 0 auto;width:900px;}
+#footer_img{padding-top: 20px;float: left;width: 120px;height: 100px;background: url(../../images/hackaton.png) left no-repeat;background-size: 100px 100px;}
+#footer_name{float: left;width: 500px;height: 120px;padding-top: 5px;color: #D3D3D3;}
+
+/*************************************************************************/
+#seccion{width:900px; height:305px;}
+
+#dispositivo{float: left; width:300px; height:300px; background-color:#D3D3D3; color:#002D63;}
+#titulo_dispositivo{float: left; width:300px; height:50px; padding-top:30px; font-size:2.2em; font:bold; font-weight: 900; text-align:center;}
+#img_dispositivo{float: left; width:150px; height:200px; padding-top:20px; background: url(../../images/bombilla.png) top no-repeat;}
+#alta_dispositivo{float: left; width:140px; height:90px; padding-top:20px; padding-left: 10px; font-size:1.4em; font:bold; font-weight: 500; text-align:left; }
+#consumo_dispo_f{float: left; width:140px; height:90px; padding-top:20px; padding-left: 10px; font-size:1.4em; font:bold; font-weight: 500; text-align:left;}
+
+#informacion{float: left; width:600px; height:300px;}
+#info{float: left; width:250px; height:125px; margin:17px 0px 0px 33px;}
+
+#titulo_info{width:100%; height:35px; padding-top:15px; background-color:#D3D3D3; text-align: center; font-size: 1.5em; font-weight: 900; color: #002D63; }
+#dato{width:100%; height:50px; padding-top:25px;text-align: center; font-size: 2em; font: bold; color: #002D63;}

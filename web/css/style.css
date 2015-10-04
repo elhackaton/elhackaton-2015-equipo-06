@@ -1,0 +1,67 @@
+html{height: 100%;}
+
+body{height: 100%;margin: 0px; padding-bottom: 0px;min-width:900px; color:#000; text-align: justify; font-family:'Exo 2',sans-serif; background-color:#fff; font-weight:lighter;}
+ 
+h1{color:#D3D3D3;}
+h2{color:#002D63; margin: 0px;}
+
+#wrapper {min-height: 100%;position: relative;}
+
+/***********Header***********/
+#header{width: 100%;height: 200px;background-color: #002D63;}
+#menuSuperior{margin: 0 auto;width:900px;height:145px;}
+#menuInferior{width: 100%; height: 50px;background-color: #D3D3D3;}
+.logo{padding-top: 25px;float: left;width: 200px;height: 120px;background: url(../images/bc.png) left no-repeat;background-size: 120px 120px;}
+.title{	padding-top: 30px;float: left;width: 700px;height: 115px;background: url(../images/tt.png) left no-repeat;}
+
+.menu{margin: 0 auto; width:900px; height:50px; background-color:a; }
+.menu a:link{color: #002D63;}
+.menu a:visited{color: #002D63;}
+.menu a:active{color: #002D63;}
+
+.inicio{float: left; width: 170px; height: 50px; background-color: reda; text-align:center;}
+.empresa{float: left; width: 170px; height: 50px; background-color: bluea; text-align:center;}
+.productos{float: left; width: 170px; height: 50px; background-color: yellowa; text-align:center;}
+.contacto{float: left; width: 170px; height: 50px; background-color: whitea; text-align:center;}
+.registro{float: right; width: 170px; height: 30px; background-color: orangea; font-size: 10px; text-align: center;}
+.identificacion{float: right; width: 170px; height: 20px; background-color: blacka; font-size: 10px; text-align: center;}
+.inicio:hover, .empresa:hover, .productos:hover, .registro:hover, .identificacion:hover, .contacto:hover{color: #fff;}
+
+.txt_sup{width: 100%; height: 22px; font-size:20px; letter-spacing: 2px; padding-top:20px;}
+.txt_r{font-size: 16px; padding-top:5px; height: 25px;}
+.txt_i{font-size: 13px; height:20px;}
+
+/**********Contenido**********/
+#content {margin: 0 auto;width:900px;min-height: 100%;}
+
+#n1_titulo{width: 100%;height: 40px;text-align: center;padding-top: 40px;}
+#n1_texto{margin: 0 auto;background-color: #D3D3D3;padding: 15px;color: #002D63;}
+#n1_texto_form{margin: 0 auto;width: 250px;background-color: #D3D3D3;padding: 15px;color: #002D63;text-align: left;}
+#n1_img{margin: 0 auto;padding-top: 0px;width:600px; margin-top:20px; height:380px;float:center; background: url(../images/inicio.jpg) top no-repeat;}
+
+.texto_index{width: 570px;text-align: center;}
+
+/*Formulario login*/
+#content_f {margin: 0 auto;width:300px;min-height: 100%;}
+.texto_login{width:300px; text-align:left;}
+
+/*Formulario registro*/
+#content_r {margin: 0 auto;width:300px;min-height: 100%;}
+.texto_registro{width:300px; text-align:left;}
+
+
+/*********Footer***********/
+#footer {width: 100%;height: 120px;position: absolute;bottom: 0;left: 0;	background-color: #002D63;}
+#footer_g{margin: 0 auto;width:900px;}
+#footer_img{padding-top: 20px;float: left;width: 120px;height: 100px;background: url(../images/hackaton.png) left no-repeat;background-size: 100px 100px;}
+#footer_name{float: left;width: 500px;height: 120px;padding-top: 5px;color: #D3D3D3;}
+
+/*************************************************************************/
+
+
+
+#error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
