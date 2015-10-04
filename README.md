@@ -1,30 +1,23 @@
-Proyecto de  Ejemplo
-====================
+<p align="center">
+  <a href="http://elhackaton.com"><img src="http://josejuansanchez.github.io/images/logo_elhackaton.png" /></a>
+</p>
 
-Componentes del Equipo
----------------------
+El Hackatón 2015
+===========
 
-(Máximo 4 integrantes por grupo)
+**Midiendo el consumo electrico de nuestros electrodomesticos**.
 
-+ Nombre del integrante #1 (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
+Nos hemos reunido con el fin de llevar acabo un proyecto destinado a mejorar el **medio ambiente** ayudandonos a reducir el **consumo electrico** en nuestros hogares.Tanto el **diseño** electronico como la **aplicacion** se ha cuidado al maximo.
 
-Descripción
--------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### diseño
+El diseño electronico se puede observar en [Diagrama electronico](https://github.com/elhackaton/elhackaton-2015-equipo-06/diagrama.pdf).   
 
-Estado del desarrollo actual
-----------------------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### aplicacion
+Nuestra aplicacion se puede utiliar desde [Aplicación](http://hackaton.sinacritud.com)
 
-Especificaciones Técnicas
---------------------------
-+ Lenguajes de programación utilizados
-+ Sistema de bases de datos
-+ Etc...
 
-Licencia
----------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### consumo electrico
+Monitorizadmos los consumos electricos de nuestros aparatos electricos para tener datos a tiempo real del consumo de nuestros aparatos
+
+### medio ambiente
+Gracias a tener un control total del consumo de nuestros aparatos podemos gestionar mejor nuestro consumo electrico reduciendo así la emision de gases derivados de la generación de la corriente electrica
